@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile/logo.png" width="140" alt="AlpWare Studio"/>
+<img src="https://raw.githubusercontent.com/AlpWare-Studio/.github/main/profile/logo.png" width="140" alt="AlpWare Studio Logo"/>
 
 # AlpWare Studio
 
@@ -14,143 +14,43 @@ Building privacy-first mobile applications and open-source software.
 
 </div>
 
-<br>
+---
 
-## 👋 About
+## About
 
-AlpWare Studio is an independent software studio focused on creating modern mobile applications and open-source tools.
+AlpWare Studio is an independent software studio focused on building modern mobile applications, developer tools and open-source products.
 
-We believe software should be:
+Our mission is simple:
 
-- 🔒 Privacy-first
-- ⚡ Fast and lightweight
-- 🎯 Focused on real user needs
-- 🛠 Built for long-term maintainability
+> Create reliable software that respects user privacy, solves real-world problems and remains maintainable for years.
 
-Our goal is to create reliable products that users can trust every day.
+We believe software should be fast, transparent, user-focused and built with long-term sustainability in mind.
 
 ---
 
-## 🚀 Products
+## Featured Products
 
-<table>
-<tr>
-<td width="50%">
-
-### Adaptive-Hz
-
-Automatic refresh rate control for unsupported Android devices.
-
-**Highlights**
-
-- Samsung Galaxy support
-- Xiaomi support
-- ADB setup
-- Open source
-
-</td>
-
-<td width="50%">
-
-### PasswordBook
-
-Offline-first password manager focused on privacy and security.
-
-**Highlights**
-
-- Local-only storage
-- Secure vault architecture
-- Material Design
-- No cloud dependency
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Wakeon
-
-Modern Wake-on-LAN solution.
-
-**Highlights**
-
-- Network discovery
-- Multi-device support
-- Flutter based
-- Cross-platform ready
-
-</td>
-
-<td width="50%">
-
-### NotifyBridge
-
-Real-time Android notification bridge.
-
-**Highlights**
-
-- Android ↔ Desktop
-- Local network communication
-- Privacy-first architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Kodex
-
-Modern developer utility toolkit.
-
-**Highlights**
-
-- Productivity focused
-- Developer-first experience
-- Cross-platform vision
-
-</td>
-
-<td width="50%">
-
-### KeymapKit
-
-Keyboard remapping and productivity tools.
-
-**Highlights**
-
-- Productivity workflows
-- Modern UX
-- Lightweight design
-
-</td>
-</tr>
-</table>
+| Product | Description |
+|----------|-------------|
+| **Adaptive-Hz** | Automatic refresh rate control for unsupported Android devices. |
+| **PasswordBook** | Offline-first password manager focused on privacy and security. |
+| **Wakeon** | Modern Wake-on-LAN solution for device management and remote power control. |
+| **NotifyBridge** | Real-time Android notification bridge for desktop environments. |
+| **Kodex** | Developer-focused productivity and utility toolkit. |
+| **KeymapKit** | Keyboard remapping and productivity tools for modern workflows. |
 
 ---
 
-## 🏗 Engineering Principles
+## Engineering
 
-We prioritize:
-
-- Clean Architecture
-- Maintainable codebases
-- Offline-first experiences
-- User ownership
-- Open-source transparency
-- Native user experience
-
----
-
-## 📱 Technology Stack
+Core technologies used across our products:
 
 ### Mobile
 
-- Android
 - Kotlin
 - Jetpack Compose
 - Flutter
+- Swift
 - Material 3
 
 ### Architecture
@@ -160,7 +60,7 @@ We prioritize:
 - Repository Pattern
 - Dependency Injection
 
-### Tools & Libraries
+### Tools & Services
 
 - Coroutines
 - Flow
@@ -172,38 +72,38 @@ We prioritize:
 
 ---
 
-## 🌱 Open Source
+## Open Source
 
 Open source is an important part of AlpWare Studio.
 
-We actively maintain public projects, share development practices, and welcome feedback from the community.
+We actively maintain public projects, share development practices and welcome feedback from the community.
 
-Whether it's a bug report, feature suggestion, or pull request — contributions are always appreciated.
+Bug reports, feature requests and pull requests are always appreciated.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Privacy-focused applications
-- Android system utilities
+- Android utilities
 - Cross-platform mobile products
-- Productivity tools
+- Developer productivity tools
 - Open-source software
 
 ---
 
-## 📬 Contact
+## Contact
 
-🌐 https://www.alpwarestudio.com
+**Website**  
+https://www.alpwarestudio.com
 
-📧 contact@alpwarestudio.com
+**Email**  
+contact@alpwarestudio.com
 
 ---
 
 <div align="center">
 
-**Made in Türkiye 🇹🇷**
-
-Building software with simplicity, privacy and reliability in mind.
+Built by AlpWare Studio.
 
 </div>
